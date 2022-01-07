@@ -24,7 +24,7 @@ https://www.statlearning.com/
 
 https://hastie.su.domains/CASI_files/PDF/casi.pdf
 
-#### Yorumlanabilir
+#### Yorumlanabilirlik
 http://www.trustworthymachinelearning.com
 
 https://christophm.github.io/interpretable-ml-book/
@@ -37,7 +37,7 @@ https://www.bradyneal.com/which-causal-inference-book
 
 http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf
 
-### Matematiksel Altyapı
+#### Matematiksel Altyapı
 https://mml-book.github.io/
 
 ## Kuantum Hesaplama
