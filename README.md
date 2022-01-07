@@ -1,13 +1,12 @@
 ## Makine Öğrenmesi
-
-https://bradleyboehmke.github.io/HOML/
+https://probml.github.io/pml-book/book1.html
 
 #### Derin Öğrenme
 https://www.tomasbeuzen.com/deep-learning-with-pytorch/README.html
 https://dmol.pub/intro.html
 
 #### Pratik
-https://probml.github.io/pml-book/book1.html
+https://bradleyboehmke.github.io/HOML/
 
 #### Teorik 
 https://mlstory.org/
@@ -31,7 +30,7 @@ http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf
 
 ## Kuantum Hesaplama
 http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
-
+https://quantum.country/qcvc
 
 ## Olasılık
 https://probability4datascience.com/
@@ -48,6 +47,7 @@ https://r4ds.had.co.nz/
 
 ## Kodlama ve Algoritmalar
 https://natureofcode.com/book/chapter-1-vectors/
+https://allendowney.github.io/DSIRP/
 
 ## Uygulamalı Lineer Cebir
 
