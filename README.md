@@ -40,11 +40,6 @@ http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf
 #### Matematiksel Altyapı
 https://mml-book.github.io/
 
-## Kuantum Hesaplama
-http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
-
-https://quantum.country/qcvc
-
 ## Olasılık
 https://probability4datascience.com/
 
@@ -66,6 +61,12 @@ https://allendowney.github.io/DSIRP/
 ## Uygulamalı Lineer Cebir
 
 https://web.stanford.edu/~boyd/vmls/
+
+## Kuantum Hesaplama
+
+http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
+
+https://quantum.country/qcvc
 
 ## Karmaşık Analiz
 
