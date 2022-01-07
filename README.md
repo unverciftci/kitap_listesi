@@ -3,6 +3,7 @@ https://probml.github.io/pml-book/book1.html
 
 #### Derin Öğrenme
 https://www.tomasbeuzen.com/deep-learning-with-pytorch/README.html
+
 https://dmol.pub/intro.html
 
 #### Pratik
@@ -10,7 +11,9 @@ https://bradleyboehmke.github.io/HOML/
 
 #### Teorik 
 https://mlstory.org/
+
 https://www.smlbook.org
+
 https://www.di.ens.fr/~fbach/ltfp_book.pdf
 
 #### İstatistiksel
@@ -19,6 +22,7 @@ https://hastie.su.domains/CASI_files/PDF/casi.pdf
 
 #### Yorumlanabilir
 http://www.trustworthymachinelearning.com
+
 https://christophm.github.io/interpretable-ml-book/
 
 #### Pekiştirmeli Öğrenme
