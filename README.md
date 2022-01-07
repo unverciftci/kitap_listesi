@@ -31,6 +31,7 @@ http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf
 
 ## Kuantum Hesaplama
 http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
+
 https://quantum.country/qcvc
 
 ## Olasılık
