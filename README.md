@@ -18,6 +18,7 @@ https://www.di.ens.fr/~fbach/ltfp_book.pdf
 
 #### İstatistiksel
 https://www.statlearning.com/
+
 https://hastie.su.domains/CASI_files/PDF/casi.pdf
 
 #### Yorumlanabilir
