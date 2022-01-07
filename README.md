@@ -2,29 +2,30 @@
 
 https://bradleyboehmke.github.io/HOML/
 
-### Derin Öğrenme
+#### Derin Öğrenme
 https://www.tomasbeuzen.com/deep-learning-with-pytorch/README.html
 https://dmol.pub/intro.html
 
-### Pratik
+#### Pratik
 https://probml.github.io/pml-book/book1.html
 
-### Teorik 
+#### Teorik 
 https://mlstory.org/
 https://www.smlbook.org
 https://www.di.ens.fr/~fbach/ltfp_book.pdf
 
-### İstatistiksel
+#### İstatistiksel
 https://www.statlearning.com/
+https://hastie.su.domains/CASI_files/PDF/casi.pdf
 
-### Yorumlanabilir
+#### Yorumlanabilir
 http://www.trustworthymachinelearning.com
 https://christophm.github.io/interpretable-ml-book/
 
-### Pekiştirmeli Öğrenme
+#### Pekiştirmeli Öğrenme
 https://rltheorybook.github.io/
 
-### Nedensellik
+#### Nedensellik
 https://www.bradyneal.com/which-causal-inference-book
 http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf
 
