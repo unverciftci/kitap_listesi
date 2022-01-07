@@ -2,6 +2,9 @@
 https://probml.github.io/pml-book/book1.html
 
 #### Derin Öğrenme
+
+https://d2l.ai/
+
 https://www.tomasbeuzen.com/deep-learning-with-pytorch/README.html
 
 https://dmol.pub/intro.html
@@ -33,6 +36,9 @@ https://rltheorybook.github.io/
 https://www.bradyneal.com/which-causal-inference-book
 
 http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf
+
+### Matematiksel Altyapı
+https://mml-book.github.io/
 
 ## Kuantum Hesaplama
 http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
