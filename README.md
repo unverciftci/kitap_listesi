@@ -49,6 +49,7 @@ https://r4ds.had.co.nz/
 
 ## Kodlama ve Algoritmalar
 https://natureofcode.com/book/chapter-1-vectors/
+
 https://allendowney.github.io/DSIRP/
 
 ## Uygulamalı Lineer Cebir
