@@ -45,9 +45,10 @@ https://probability4datascience.com/
 
 ## Sayısal Analiz
 
+https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
+
 https://numericalmethodssullivan.github.io/
 
-https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
 
 ## Veri Bilimi
 
