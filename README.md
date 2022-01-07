@@ -60,3 +60,8 @@ https://allendowney.github.io/DSIRP/
 ## Uygulamalı Lineer Cebir
 
 https://web.stanford.edu/~boyd/vmls/
+
+## Karmaşık Analiz
+
+http://usf.usfca.edu/vca/
+
