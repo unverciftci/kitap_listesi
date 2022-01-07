@@ -26,6 +26,7 @@ https://rltheorybook.github.io/
 
 #### Nedensellik
 https://www.bradyneal.com/which-causal-inference-book
+
 http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf
 
 ## Kuantum Hesaplama
