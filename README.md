@@ -1,6 +1,16 @@
 ## Makine Öğrenmesi
 
+https://probml.github.io/pml-book/book1.html
+https://mlstory.org/
 https://www.statlearning.com/
+https://www.smlbook.org
+https://www.di.ens.fr/~fbach/ltfp_book.pdf
+
+
+
+http://www.trustworthymachinelearning.com
+
+
 
 ## Derin Öğrenme
 https://www.tomasbeuzen.com/deep-learning-with-pytorch/README.html
