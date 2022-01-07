@@ -1,9 +1,15 @@
 ## Makine Öğrenmesi
 
+https://www.statlearning.com/
+
 ## Derin Öğrenme
 https://www.tomasbeuzen.com/deep-learning-with-pytorch/README.html
 
 https://dmol.pub/intro.html
+
+## Pekiştirmeli Öğrenme
+
+https://rltheorybook.github.io/
 
 
 ## Kuantum Hesaplama
@@ -25,3 +31,7 @@ https://r4ds.had.co.nz/
 
 ## Kodlama ve Algoritmalar
 https://natureofcode.com/book/chapter-1-vectors/
+
+## Uygulamalı Lineer Cebir
+
+https://web.stanford.edu/~boyd/vmls/
