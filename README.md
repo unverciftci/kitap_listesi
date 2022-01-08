@@ -49,6 +49,10 @@ https://probml.github.io/pml-book/book1.html
 * ## Olasılık
 https://probability4datascience.com/
 
+* ## Optimizasyon
+
+https://algorithmsbook.com/optimization/
+
 * ## Sayısal Analiz
 
 https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
