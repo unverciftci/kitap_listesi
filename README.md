@@ -1,50 +1,50 @@
 ## Makine Öğrenmesi
 https://probml.github.io/pml-book/book1.html
 
-#### Derin Öğrenme
+  #### Derin Öğrenme
 
-https://d2l.ai/
+  https://d2l.ai/
 
-https://www.tomasbeuzen.com/deep-learning-with-pytorch/README.html
+  https://www.tomasbeuzen.com/deep-learning-with-pytorch/README.html
 
-https://dmol.pub/intro.html
+  https://dmol.pub/intro.html
 
-##### Çizge Yapay Sinir Ağları
+    ##### Çizge Yapay Sinir Ağları
 
-https://www.cs.mcgill.ca/~wlh/grl_book/
+    https://www.cs.mcgill.ca/~wlh/grl_book/
 
-https://cse.msu.edu/~mayao4/dlg_book/
+    https://cse.msu.edu/~mayao4/dlg_book/
 
-#### Pratik
-https://bradleyboehmke.github.io/HOML/
+  #### Pratik
+  https://bradleyboehmke.github.io/HOML/
 
-#### Teorik 
-https://mlstory.org/
+  #### Teorik 
+  https://mlstory.org/
 
-https://www.smlbook.org
+  https://www.smlbook.org
 
-https://www.di.ens.fr/~fbach/ltfp_book.pdf
+  https://www.di.ens.fr/~fbach/ltfp_book.pdf
 
-#### İstatistiksel
-https://www.statlearning.com/
+  #### İstatistiksel
+  https://www.statlearning.com/
 
-https://hastie.su.domains/CASI_files/PDF/casi.pdf
+  https://hastie.su.domains/CASI_files/PDF/casi.pdf
 
-#### Yorumlanabilirlik
-http://www.trustworthymachinelearning.com
+  #### Yorumlanabilirlik
+  http://www.trustworthymachinelearning.com
 
-https://christophm.github.io/interpretable-ml-book/
+  https://christophm.github.io/interpretable-ml-book/
 
-#### Pekiştirmeli Öğrenme
-https://rltheorybook.github.io/
+  #### Pekiştirmeli Öğrenme
+  https://rltheorybook.github.io/
 
-#### Nedensellik
-https://www.bradyneal.com/which-causal-inference-book
+  #### Nedensellik
+  https://www.bradyneal.com/which-causal-inference-book
 
-http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf
+  http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf
 
-#### Matematiksel Altyapı
-https://mml-book.github.io/
+  #### Matematiksel Altyapı
+  https://mml-book.github.io/
 
 ## Olasılık
 https://probability4datascience.com/
