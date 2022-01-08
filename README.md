@@ -79,7 +79,7 @@ https://allendowney.github.io/DSIRP/
 
 https://web.stanford.edu/~boyd/vmls/
 
-* ## Stochastics
+* ## Stokastik
 
 https://users.aalto.fi/~asolin/sde-book/sde-book.pdf
 
