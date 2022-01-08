@@ -40,7 +40,7 @@ https://probml.github.io/pml-book/book1.html
   + #### Matematiksel Altyapı
   https://mml-book.github.io/
 
-    + #### Çizge Yapay Sinir Ağları
+  + #### Çizge Yapay Sinir Ağları
 
   https://www.cs.mcgill.ca/~wlh/grl_book/
 
