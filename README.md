@@ -9,7 +9,7 @@ https://probml.github.io/pml-book/book1.html
 
   https://dmol.pub/intro.html
 
-   - #### Çizge Yapay Sinir Ağları
+    - #### Çizge Yapay Sinir Ağları
 
   https://www.cs.mcgill.ca/~wlh/grl_book/
 
