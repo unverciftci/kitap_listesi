@@ -24,7 +24,7 @@ https://probml.github.io/pml-book/book1.html
 
   https://hastie.su.domains/CASI_files/PDF/casi.pdf
 
-  + ### Bayez
+  + #### Bayesyen
 
   https://bayesiancomputationbook.com
 
