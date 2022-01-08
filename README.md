@@ -1,7 +1,7 @@
-## Makine Öğrenmesi
+* ## Makine Öğrenmesi
 https://probml.github.io/pml-book/book1.html
 
-  #### Derin Öğrenme
+  * #### Derin Öğrenme
 
   https://d2l.ai/
 
