@@ -79,6 +79,10 @@ https://allendowney.github.io/DSIRP/
 
 https://web.stanford.edu/~boyd/vmls/
 
+* ## Stochastics
+
+https://users.aalto.fi/~asolin/sde-book/sde-book.pdf
+
 * ## Kuantum Hesaplama
 
 http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
