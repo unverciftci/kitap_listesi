@@ -1,7 +1,7 @@
 * ## Makine Öğrenmesi
 https://probml.github.io/pml-book/book1.html
 
-  * #### Derin Öğrenme
+  + #### Derin Öğrenme
 
   https://d2l.ai/
 
@@ -9,41 +9,41 @@ https://probml.github.io/pml-book/book1.html
 
   https://dmol.pub/intro.html
 
-  * #### Çizge Yapay Sinir Ağları
+   - #### Çizge Yapay Sinir Ağları
 
   https://www.cs.mcgill.ca/~wlh/grl_book/
 
   https://cse.msu.edu/~mayao4/dlg_book/
 
-  * #### Pratik
+  + #### Pratik
   https://bradleyboehmke.github.io/HOML/
 
-  * #### Teorik 
+  + #### Teorik 
   https://mlstory.org/
 
   https://www.smlbook.org
 
   https://www.di.ens.fr/~fbach/ltfp_book.pdf
 
-  * #### İstatistiksel
+  + #### İstatistiksel
   https://www.statlearning.com/
 
   https://hastie.su.domains/CASI_files/PDF/casi.pdf
 
-  * #### Yorumlanabilirlik
+  + #### Yorumlanabilirlik
   http://www.trustworthymachinelearning.com
 
   https://christophm.github.io/interpretable-ml-book/
 
-  * #### Pekiştirmeli Öğrenme
+  + #### Pekiştirmeli Öğrenme
   https://rltheorybook.github.io/
 
-  * #### Nedensellik
+  + #### Nedensellik
   https://www.bradyneal.com/which-causal-inference-book
 
   http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf
 
-  * #### Matematiksel Altyapı
+  + #### Matematiksel Altyapı
   https://mml-book.github.io/
 
 * ## Olasılık
