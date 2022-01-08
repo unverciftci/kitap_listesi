@@ -60,6 +60,8 @@ https://numericalmethodssullivan.github.io/
 
 https://r4ds.had.co.nz/
 
+https://jakevdp.github.io/PythonDataScienceHandbook/
+
 * ## Kodlama ve Algoritmalar
 https://natureofcode.com/book/chapter-1-vectors/
 
