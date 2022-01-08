@@ -24,6 +24,10 @@ https://probml.github.io/pml-book/book1.html
 
   https://hastie.su.domains/CASI_files/PDF/casi.pdf
 
+  + ### Bayez
+
+  https://bayesiancomputationbook.com
+
   + #### Yorumlanabilirlik
   http://www.trustworthymachinelearning.com
 
