@@ -95,3 +95,9 @@ https://quantum.country/qcvc
 
 https://complex-analysis.com/
 
+## Daha Fazlası
+
+https://executablebooks.org/en/latest/gallery.html
+
+https://bookdown.org/
+
