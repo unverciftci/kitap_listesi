@@ -70,6 +70,8 @@ https://r4ds.had.co.nz/
 
 https://jakevdp.github.io/PythonDataScienceHandbook/
 
+https://mdsr-book.github.io/mdsr2e/
+
 * ## Kodlama ve Algoritmalar
 https://natureofcode.com/book/chapter-1-vectors/
 
