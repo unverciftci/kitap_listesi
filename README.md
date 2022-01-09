@@ -101,3 +101,5 @@ https://executablebooks.org/en/latest/gallery.html
 
 https://bookdown.org/
 
+https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-subjects.html
+
