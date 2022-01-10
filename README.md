@@ -53,6 +53,8 @@ https://probml.github.io/pml-book/book1.html
 * ## Olasılık
 https://probability4datascience.com/
 
+https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html
+
 * ## Optimizasyon
 
 https://algorithmsbook.com/optimization/
