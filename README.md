@@ -65,6 +65,9 @@ https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
 
 https://numericalmethodssullivan.github.io/
 
+* ## İstatistik
+
+https://web.stanford.edu/class/bios221/book/
 
 * ## Veri Bilimi
 
