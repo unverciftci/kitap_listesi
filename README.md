@@ -9,7 +9,7 @@ https://probml.github.io/pml-book/book1.html
 
   https://dmol.pub/intro.html
 
-  + ### Doğal Dil İşleme
+  + #### Doğal Dil İşleme
   https://web.stanford.edu/~jurafsky/slp3/
   
   + #### Pratik
