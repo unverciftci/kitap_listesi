@@ -30,6 +30,8 @@ https://probml.github.io/pml-book/book1.html
   + #### Bayesyen
 
   https://bayesiancomputationbook.com
+  
+  http://www.stat.columbia.edu/~gelman/book/
 
   + #### Yorumlanabilirlik
   http://www.trustworthymachinelearning.com
