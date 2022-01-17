@@ -1,5 +1,8 @@
 * ## Makine Öğrenmesi
-https://probml.github.io/pml-book/book1.html
+
+  + #### Olasılıksal
+  
+  https://probml.github.io/pml-book/book1.html
 
   + #### Derin Öğrenme
 
