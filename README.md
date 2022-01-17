@@ -132,3 +132,5 @@ https://bookdown.org/
 https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-subjects.html
 
 https://www.bigbookofr.com/
+
+https://open.umn.edu/opentextbooks/subjects
