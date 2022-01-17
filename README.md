@@ -51,6 +51,10 @@ https://probml.github.io/pml-book/book1.html
   https://www.bradyneal.com/which-causal-inference-book
 
   http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf
+  
+  https://theeffectbook.net/
+  
+  https://mixtape.scunning.com/
 
   + #### Matematiksel Altyapı
   https://mml-book.github.io/
