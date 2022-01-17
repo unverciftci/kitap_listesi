@@ -86,6 +86,11 @@ https://jakevdp.github.io/PythonDataScienceHandbook/
 
 https://mdsr-book.github.io/mdsr2e/
 
+* #### İş Analizi
+
+https://www.causact.com/
+
+
 * ## Kodlama ve Algoritmalar
 https://natureofcode.com/book/chapter-1-vectors/
 
