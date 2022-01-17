@@ -33,6 +33,8 @@ https://probml.github.io/pml-book/book1.html
   
   http://www.stat.columbia.edu/~gelman/book/
   
+  https://www.bayesrulesbook.com/
+  
   * #### Zaman Serileri
 
   https://otexts.com/fpp3/
@@ -86,7 +88,7 @@ https://jakevdp.github.io/PythonDataScienceHandbook/
 
 https://mdsr-book.github.io/mdsr2e/
 
-* #### İş Analizi
+* ## İş Analizi
 
 https://www.causact.com/
 
