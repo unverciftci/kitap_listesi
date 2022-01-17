@@ -32,6 +32,10 @@ https://probml.github.io/pml-book/book1.html
   https://bayesiancomputationbook.com
   
   http://www.stat.columbia.edu/~gelman/book/
+  
+  * #### Zaman Serileri
+
+  https://otexts.com/fpp3/
 
   + #### Yorumlanabilirlik
   http://www.trustworthymachinelearning.com
