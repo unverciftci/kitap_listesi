@@ -99,6 +99,8 @@ https://jakevdp.github.io/PythonDataScienceHandbook/
 
 https://mdsr-book.github.io/mdsr2e/
 
+https://wesmckinney.com/book/
+
 * ## İş Analizi
 
 https://www.causact.com/
