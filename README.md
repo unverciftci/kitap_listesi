@@ -51,6 +51,9 @@
 
   + #### Pekiştirmeli Öğrenme
   https://rltheorybook.github.io/
+  
+  https://algorithmsbook.com/#
+  
 
   + #### Nedensellik
   https://www.bradyneal.com/which-causal-inference-book
