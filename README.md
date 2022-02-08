@@ -17,7 +17,7 @@
   
   + #### Görüntü İşleme
 
-https://szeliski.org/Book/
+  https://szeliski.org/Book/
   
   + #### Pratik
   https://bradleyboehmke.github.io/HOML/
