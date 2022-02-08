@@ -15,6 +15,10 @@
   + #### Doğal Dil İşleme
   https://web.stanford.edu/~jurafsky/slp3/
   
+  + #### Görüntü İşleme
+
+https://szeliski.org/Book/
+  
   + #### Pratik
   https://bradleyboehmke.github.io/HOML/
 
