@@ -98,12 +98,11 @@ https://web.stanford.edu/class/bios221/book/
 
 https://greenteapress.com/wp/think-stats-2e/
 
-* ## Veri Bilimi
-
 * ## Kısmi Türevli Denklemler
 
 https://math.libretexts.org/Bookshelves/Differential_Equations/Book%3A_Partial_Differential_Equations_(Walet)
 
+* ## Veri Bilimi
 
 https://r4ds.had.co.nz/
 
