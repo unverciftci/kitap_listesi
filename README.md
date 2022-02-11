@@ -102,6 +102,8 @@ https://greenteapress.com/wp/think-stats-2e/
 
 https://math.libretexts.org/Bookshelves/Differential_Equations/Book%3A_Partial_Differential_Equations_(Walet)
 
+http://www.math.toronto.edu/ivrii/PDE-textbook/contents.html
+
 * ## Veri Bilimi
 
 https://r4ds.had.co.nz/
