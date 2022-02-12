@@ -61,6 +61,7 @@
   
 
   + #### Nedensellik
+
   https://www.bradyneal.com/which-causal-inference-book
 
   http://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf
@@ -133,7 +134,7 @@ https://introduction-to-autonomous-robots.github.io/
 
 https://web.stanford.edu/~boyd/vmls/
 
-* ## Stokastik
+* ## Stokastik Diff
 
 https://users.aalto.fi/~asolin/sde-book/sde-book.pdf
 
