@@ -48,7 +48,8 @@
 
   https://otexts.com/fpp3/
 
-  + #### Yorumlanabilirlik
+  + #### Yorumlanabilirlik 
+  
   http://www.trustworthymachinelearning.com
 
   https://christophm.github.io/interpretable-ml-book/
