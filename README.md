@@ -55,10 +55,14 @@
   https://christophm.github.io/interpretable-ml-book/
 
   + #### Pekiştirmeli Öğrenme
+
+  http://www.incompleteideas.net/book/the-book-2nd.html
+
   https://rltheorybook.github.io/
   
   https://algorithmsbook.com/#
   
+  https://chan.mie.utoronto.ca/book/
 
   + #### Nedensellik
 
