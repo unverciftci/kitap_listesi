@@ -3,6 +3,8 @@
   + #### Olasılıksal
   
   https://probml.github.io/pml-book/book1.html
+  
+  https://probml.github.io/pml-book/book2.html
 
   + #### Derin Öğrenme
 
