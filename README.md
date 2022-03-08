@@ -94,6 +94,10 @@ https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html
 
 https://algorithmsbook.com/optimization/
 
+* ## Ağlar
+
+https://ericmjl.github.io/Network-Analysis-Made-Simple/
+
 * ## Sayısal Analiz
 
 https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
