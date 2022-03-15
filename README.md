@@ -104,6 +104,8 @@ https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
 
 https://numericalmethodssullivan.github.io/
 
+https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf
+
 * ## İstatistik
 
 https://web.stanford.edu/class/bios221/book/
