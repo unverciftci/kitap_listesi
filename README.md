@@ -65,6 +65,8 @@
   https://algorithmsbook.com/#
   
   https://chan.mie.utoronto.ca/book/
+  
+  https://web.mit.edu/dimitrib/www/LessonsfromAlphazero.pdf
 
   + #### Nedensellik
 
@@ -97,6 +99,8 @@ https://algorithmsbook.com/optimization/
 * ## Ağlar
 
 https://ericmjl.github.io/Network-Analysis-Made-Simple/
+
+https://networks.quantecon.org/
 
 * ## Sayısal Analiz
 
