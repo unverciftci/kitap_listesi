@@ -116,6 +116,11 @@ https://web.stanford.edu/class/bios221/book/
 
 https://greenteapress.com/wp/think-stats-2e/
 
+
+* ## Reel Analiz
+
+https://measure.axler.net/
+
 * ## Kısmi Türevli Denklemler
 
 https://math.libretexts.org/Bookshelves/Differential_Equations/Book%3A_Partial_Differential_Equations_(Walet)
