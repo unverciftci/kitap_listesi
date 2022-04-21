@@ -96,6 +96,8 @@ https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html
 
 https://algorithmsbook.com/optimization/
 
+https://algorithmsbook.com/#
+
 * ## Ağlar
 
 https://ericmjl.github.io/Network-Analysis-Made-Simple/
