@@ -98,6 +98,8 @@ https://algorithmsbook.com/optimization/
 
 https://algorithmsbook.com/#
 
+https://sma.epfl.ch/~nboumal/book/index.html
+
 * ## Ağlar
 
 https://ericmjl.github.io/Network-Analysis-Made-Simple/
