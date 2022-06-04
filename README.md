@@ -169,6 +169,8 @@ http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
 
 https://quantum.country/qcvc
 
+https://physics.weber.edu/schroeder/quantum/QuantumBook.pdf
+
 * ## Karmaşık Analiz
 
 https://complex-analysis.com/
