@@ -114,6 +114,8 @@ https://numericalmethodssullivan.github.io/
 
 https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf
 
+https://www.probabilistic-numerics.org/textbooks/
+
 * ## İstatistik
 
 https://web.stanford.edu/class/bios221/book/
