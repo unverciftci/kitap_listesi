@@ -92,6 +92,8 @@ https://probability4datascience.com/
 
 https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html
 
+http://prob140.org/textbook/content/README.html
+
 * ## Optimizasyon
 
 https://algorithmsbook.com/optimization/
