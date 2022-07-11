@@ -161,6 +161,10 @@ https://introduction-to-autonomous-robots.github.io/
 
 https://link.springer.com/content/pdf/10.1007/978-3-319-62533-1.pdf
 
+* ## Kontrol
+
+http://www.cds.caltech.edu/~murray/books/AM08/pdf/fbs-public_24Jul2020.pdf
+
 * ## Uygulamalı Lineer Cebir
 
 https://web.stanford.edu/~boyd/vmls/
