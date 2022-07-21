@@ -155,6 +155,8 @@ https://natureofcode.com/book/chapter-1-vectors/
 
 https://allendowney.github.io/DSIRP/
 
+https://github.com/mdipierro/nlib
+
 * ## Robotik
 
 https://introduction-to-autonomous-robots.github.io/
