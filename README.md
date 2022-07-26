@@ -108,6 +108,14 @@ https://ericmjl.github.io/Network-Analysis-Made-Simple/
 
 https://networks.quantecon.org/
 
+* ## Lineer Cebir
+
+https://textbooks.math.gatech.edu/ila/
+
+https://services.math.duke.edu/~jdr/ila.html
+
+http://immersivemath.com/ila/index.html
+
 * ## Sayısal Analiz
 
 https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
