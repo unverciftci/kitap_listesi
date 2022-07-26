@@ -112,8 +112,6 @@ https://networks.quantecon.org/
 
 https://textbooks.math.gatech.edu/ila/
 
-https://services.math.duke.edu/~jdr/ila.html
-
 http://immersivemath.com/ila/index.html
 
 * ## Sayısal Analiz
