@@ -100,8 +100,6 @@ http://prob140.org/textbook/content/README.html
 
 https://algorithmsbook.com/optimization/
 
-https://algorithmsbook.com/#
-
 https://sma.epfl.ch/~nboumal/book/index.html
 
 * ## Ağlar
