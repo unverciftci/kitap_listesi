@@ -13,6 +13,8 @@
   https://www.tomasbeuzen.com/deep-learning-with-pytorch/README.html
 
   https://dmol.pub/intro.html
+  
+  https://deeplearningtheory.com/
 
   + #### Doğal Dil İşleme
   https://web.stanford.edu/~jurafsky/slp3/
