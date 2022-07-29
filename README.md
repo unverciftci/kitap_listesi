@@ -10,7 +10,7 @@
 
   https://d2l.ai/
 
-  https://www.tomasbeuzen.com/deep-learning-with-pytorch/README.html
+  https://www.tomasbeuzen.com/deep-learning-with-pytorch
 
   https://dmol.pub/intro.html
   
