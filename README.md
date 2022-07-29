@@ -183,7 +183,7 @@ https://users.aalto.fi/~asolin/sde-book/sde-book.pdf
 
 * ## Kuantum Hesaplama
 
-http://www.thomaswong.net/introduction-to-classical-and-quantum-computing.pdf
+http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf
 
 https://quantum.country/qcvc
 
