@@ -15,6 +15,8 @@
   https://dmol.pub/intro.html
   
   https://deeplearningtheory.com/
+  
+  https://udlbook.github.io/udlbook/
 
   + #### Doğal Dil İşleme
   https://web.stanford.edu/~jurafsky/slp3/
