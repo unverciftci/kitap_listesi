@@ -86,6 +86,8 @@
   https://mml-book.github.io/
 
   + #### Çizge Yapay Sinir Ağları
+  
+  https://graph-neural-networks.github.io/index.html
 
   https://www.cs.mcgill.ca/~wlh/grl_book/
 
