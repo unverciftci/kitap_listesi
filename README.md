@@ -73,6 +73,8 @@
   https://web.mit.edu/dimitrib/www/LessonsfromAlphazero.pdf
   
   https://meyn.ece.ufl.edu/2021/08/01/control-systems-and-reinforcement-learning/
+  
+  https://arxiv.org/pdf/2201.02135.pdf
 
   + #### Nedensellik
 
