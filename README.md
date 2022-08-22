@@ -110,6 +110,12 @@ https://algorithmsbook.com/optimization/
 
 https://sma.epfl.ch/~nboumal/book/index.html
 
+* ## Bilgisayar Bilimleri
+
+https://introtcs.org/public/index.html
+
+https://runestone.academy/ns/books/published/thinkcspy/index.html
+
 * ## Ağlar
 
 https://ericmjl.github.io/Network-Analysis-Made-Simple/
