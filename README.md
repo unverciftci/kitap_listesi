@@ -110,6 +110,10 @@ https://algorithmsbook.com/optimization/
 
 https://sma.epfl.ch/~nboumal/book/index.html
 
+* ## Yapay Zeka
+
+https://artint.info/2e/html/ArtInt2e.html
+
 * ## Bilgisayar Bilimleri
 
 https://introtcs.org/public/index.html
