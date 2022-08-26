@@ -118,6 +118,8 @@ https://artint.info/2e/html/ArtInt2e.html
 
 https://introtcs.org/public/index.html
 
+https://hardness.mit.edu/
+
 https://runestone.academy/ns/books/published/thinkcspy/index.html
 
 * ## Ağlar
