@@ -63,6 +63,8 @@
   + #### Pekiştirmeli Öğrenme
 
   http://www.incompleteideas.net/book/the-book-2nd.html
+  
+  https://www.distributional-rl.org/
 
   https://rltheorybook.github.io/
   
