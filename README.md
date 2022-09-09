@@ -98,6 +98,9 @@
   https://www.cs.mcgill.ca/~wlh/grl_book/
 
   https://cse.msu.edu/~mayao4/dlg_book/
+  
+  + #### Simülasyon
+  https://physicsbaseddeeplearning.org/intro.html
 
 * ## Olasılık
 https://probability4datascience.com/
