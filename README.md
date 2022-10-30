@@ -220,6 +220,10 @@ https://physics.weber.edu/schroeder/quantum/QuantumBook.pdf
 
 https://complex-analysis.com/
 
+* ## Hesaplamalı Finans 
+
+https://bookdown.org/compfinezbook/introFinRbook/
+
 ## Daha Fazlası
 
 https://executablebooks.org/en/latest/gallery.html
