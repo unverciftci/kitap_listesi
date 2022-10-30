@@ -172,7 +172,7 @@ http://www.math.toronto.edu/ivrii/PDE-textbook/contents.html
 
 * ## Veri Bilimi
 
-https://r4ds.had.co.nz/
+https://r4ds.hadley.nz/
 
 https://jakevdp.github.io/PythonDataScienceHandbook/
 
