@@ -159,6 +159,9 @@ https://web.stanford.edu/class/bios221/book/
 
 https://greenteapress.com/wp/think-stats-2e/
 
+* ## Teknik Analiz
+
+https://bookdown.org/kochiuyu/technical-analysis-with-r-second-edition2/
 
 * ## Reel Analiz
 
