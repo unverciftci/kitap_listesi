@@ -221,6 +221,10 @@ https://quantum.country/qcvc
 
 https://physics.weber.edu/schroeder/quantum/QuantumBook.pdf
 
+* ## Kalkülüs
+
+https://jverzani.github.io/CalculusWithJuliaNotes.jl/
+
 * ## Karmaşık Analiz
 
 https://complex-analysis.com/
