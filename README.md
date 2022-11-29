@@ -127,6 +127,10 @@ https://hardness.mit.edu/
 
 https://runestone.academy/ns/books/published/thinkcspy/index.html
 
+# Riemann Geometrisi
+
+https://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf
+
 * ## Ağlar
 
 https://ericmjl.github.io/Network-Analysis-Made-Simple/
