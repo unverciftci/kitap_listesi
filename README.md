@@ -129,7 +129,7 @@ https://runestone.academy/ns/books/published/thinkcspy/index.html
 
 # Riemann Geometrisi
 
-https://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf
+https://sagemanifolds.obspm.fr/intro_to_manifolds.html
 
 * ## Ağlar
 
