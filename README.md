@@ -127,7 +127,7 @@ https://hardness.mit.edu/
 
 https://runestone.academy/ns/books/published/thinkcspy/index.html
 
-# Riemann Geometrisi
+* ## Riemann Geometrisi
 
 https://sagemanifolds.obspm.fr/intro_to_manifolds.html
 
@@ -212,6 +212,8 @@ https://osrf.github.io/ros2multirobotbook/
 * ## Kontrol
 
 http://www.cds.caltech.edu/~murray/books/AM08/pdf/fbs-public_24Jul2020.pdf
+
+https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Introduction_to_Control_Systems_(Iqbal)
 
 * ## Stokastik Diff
 
