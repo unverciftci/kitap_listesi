@@ -77,6 +77,8 @@
   https://meyn.ece.ufl.edu/2021/08/01/control-systems-and-reinforcement-learning/
   
   https://arxiv.org/pdf/2201.02135.pdf
+  
+  https://www.distributional-rl.org/?utm_source=substack&utm_medium=email
 
   + #### Nedensellik
 
