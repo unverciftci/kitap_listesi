@@ -15,7 +15,7 @@
   https://dmol.pub/intro.html
   
   https://deeplearningtheory.com/
-  
+
   https://udlbook.github.io/udlbook/
 
   + #### Doğal Dil İşleme
@@ -166,6 +166,10 @@ https://tobydriscoll.net/fnc-julia/frontmatter.html
 https://web.stanford.edu/class/bios221/book/
 
 https://greenteapress.com/wp/think-stats-2e/
+
+* ## Zaman Serileri
+
+https://phdinds-aim.github.io/time_series_handbook/Preface/Preface.html
 
 * ## Teknik Analiz
 
