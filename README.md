@@ -201,6 +201,8 @@ https://allendowney.github.io/DSIRP/
 
 https://github.com/mdipierro/nlib
 
+http://hplgit.github.io/prog4comp/doc/pub/p4c-sphinx-Python/index.html
+
 * ## Robotik
 
 https://introduction-to-autonomous-robots.github.io/
