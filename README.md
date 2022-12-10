@@ -53,6 +53,8 @@
   * #### Zaman Serileri
 
   https://otexts.com/fpp3/
+  
+  https://phdinds-aim.github.io/time_series_handbook
 
   + #### Yorumlanabilirlik 
   
@@ -167,10 +169,6 @@ https://web.stanford.edu/class/bios221/book/
 
 https://greenteapress.com/wp/think-stats-2e/
 
-* ## Zaman Serileri
-
-https://phdinds-aim.github.io/time_series_handbook/Preface/Preface.html
-
 * ## Teknik Analiz
 
 https://bookdown.org/kochiuyu/technical-analysis-with-r-second-edition2/
@@ -198,7 +196,6 @@ https://wesmckinney.com/book/
 * ## İş Analizi
 
 https://www.causact.com/
-
 
 * ## Kodlama ve Algoritmalar
 https://natureofcode.com/book/chapter-1-vectors/
