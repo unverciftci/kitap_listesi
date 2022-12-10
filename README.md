@@ -149,7 +149,7 @@ http://immersivemath.com/ila/index.html
 
 https://web.stanford.edu/~boyd/vmls/
 
-* ## Sayısal Analiz
+* ## Sayısal Hesaplama
 
 https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
 
@@ -158,6 +158,8 @@ https://numericalmethodssullivan.github.io/
 https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf
 
 https://www.probabilistic-numerics.org/textbooks/
+
+https://tobydriscoll.net/fnc-julia/frontmatter.html
 
 * ## İstatistik
 
