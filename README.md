@@ -64,6 +64,8 @@
 
   + #### Pekiştirmeli Öğrenme
 
+  https://stanford.edu/~ashlearn/RLForFinanceBook/book.pdf
+
   http://www.incompleteideas.net/book/the-book-2nd.html
   
   https://www.distributional-rl.org/
