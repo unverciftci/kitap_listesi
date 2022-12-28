@@ -210,6 +210,8 @@ http://hplgit.github.io/prog4comp/doc/pub/p4c-sphinx-Python/index.html
 
 * ## Robotik
 
+https://www.roboticsbook.org/intro.html
+
 https://introduction-to-autonomous-robots.github.io/
 
 https://link.springer.com/content/pdf/10.1007/978-3-319-62533-1.pdf
