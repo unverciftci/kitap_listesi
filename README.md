@@ -220,6 +220,8 @@ https://file.tavsys.net/control/controls-engineering-in-frc.pdf
 
 https://osrf.github.io/ros2multirobotbook/
 
+http://underactuated.csail.mit.edu/
+
 * ## Kontrol
 
 http://www.cds.caltech.edu/~murray/books/AM08/pdf/fbs-public_24Jul2020.pdf
