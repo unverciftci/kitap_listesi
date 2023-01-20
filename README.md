@@ -121,6 +121,8 @@ https://algorithmsbook.com/optimization/
 
 https://sma.epfl.ch/~nboumal/book/index.html
 
+https://github.com/YinTat/optimizationbook/blob/main/main.pdf
+
 * ## Yapay Zeka
 
 https://artint.info/2e/html/ArtInt2e.html
