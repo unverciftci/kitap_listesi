@@ -155,6 +155,10 @@ http://immersivemath.com/ila/index.html
 
 https://web.stanford.edu/~boyd/vmls/
 
+* ## Coğrafi Veri Analizi
+
+https://book.geemap.org/
+
 * ## Sayısal Hesaplama
 
 https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
