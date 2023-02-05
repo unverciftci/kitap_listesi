@@ -145,6 +145,10 @@ https://ericmjl.github.io/Network-Analysis-Made-Simple/
 
 https://networks.quantecon.org/
 
+* ## Bilgisayar Ağları
+
+https://book.systemsapproach.org/
+
 * ## Lineer Cebir
 
 https://textbooks.math.gatech.edu/ila/
