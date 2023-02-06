@@ -34,6 +34,8 @@
   https://www.smlbook.org
 
   https://www.di.ens.fr/~fbach/ltfp_book.pdf
+  
+  https://alexjungaalto.github.io/MLBasicsBook.pdf
 
   + #### İstatistiksel
   https://www.statlearning.com/
