@@ -275,3 +275,7 @@ https://ebookfoundation.github.io/free-programming-books/books/free-programming-
 https://www.bigbookofr.com/
 
 https://open.umn.edu/opentextbooks/subjects
+
+## Notlar
+
+https://arxiv.org/pdf/2301.00942v1.pdf
