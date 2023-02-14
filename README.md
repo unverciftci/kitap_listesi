@@ -279,3 +279,5 @@ https://open.umn.edu/opentextbooks/subjects
 ## Notlar
 
 https://arxiv.org/pdf/2301.00942v1.pdf
+
+https://arxiv.org/pdf/2206.13446.pdf
