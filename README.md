@@ -1,3 +1,5 @@
+Liste artık buraya taşınmıştır: https://github.com/Matematik-ve-Yapay-Zeka-Enstitusu/AI-KAYNAK/tree/main/Books
+
 * ## Makine Öğrenmesi
 
   + #### Olasılıksal
